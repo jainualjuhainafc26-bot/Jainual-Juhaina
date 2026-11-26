@@ -1,0 +1,6 @@
+{
+  "name": "Roots & Hearth",
+  "description": "A global digital cultural food heritage archive celebrating traditional cuisines across all 28 Indian states, 8 Union Territories, and world culinary traditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
